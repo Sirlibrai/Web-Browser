@@ -1,0 +1,17 @@
+E:\!!Done!!\WebBrowser\WebBrowser\WebBrowser\bin\Debug\WebBrowser.exe.config
+Z:\Downloads\WebBrowser 2\WebBrowser\bin\Debug\WebBrowser.exe.config
+Z:\Downloads\WebBrowser 2\WebBrowser\bin\Debug\WebBrowser.exe
+Z:\Downloads\WebBrowser 2\WebBrowser\bin\Debug\WebBrowser.pdb
+Z:\Downloads\WebBrowser 2\WebBrowser\bin\Debug\Newtonsoft.Json.dll
+Z:\Downloads\WebBrowser 2\WebBrowser\bin\Debug\Newtonsoft.Json.xml
+Z:\Downloads\WebBrowser 2\WebBrowser\obj\Debug\WebBrowser.csprojResolveAssemblyReference.cache
+Z:\Downloads\WebBrowser 2\WebBrowser\obj\Debug\WebBrowser.FavouritesForm.resources
+Z:\Downloads\WebBrowser 2\WebBrowser\obj\Debug\WebBrowser.MainForm.resources
+Z:\Downloads\WebBrowser 2\WebBrowser\obj\Debug\WebBrowser.Properties.Resources.resources
+Z:\Downloads\WebBrowser 2\WebBrowser\obj\Debug\WebBrowser.csproj.GenerateResource.Cache
+Z:\Downloads\WebBrowser 2\WebBrowser\obj\Debug\WebBrowser.exe
+Z:\Downloads\WebBrowser 2\WebBrowser\obj\Debug\WebBrowser.pdb
+Z:\Downloads\WebBrowser 2\WebBrowser\bin\Debug\WebBrowser.exe.manifest
+Z:\Downloads\WebBrowser 2\WebBrowser\bin\Debug\WebBrowser.application
+Z:\Downloads\WebBrowser 2\WebBrowser\obj\Debug\WebBrowser.exe.manifest
+Z:\Downloads\WebBrowser 2\WebBrowser\obj\Debug\WebBrowser.application
